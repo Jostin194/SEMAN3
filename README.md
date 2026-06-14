@@ -1,4 +1,4 @@
-### Nombre Completo: Jostin Steeven Villalta Coello
+### Nombre: Jostin Steeven Villalta Coello
 
 ### Descripción de los Programas Desarrollados
 
